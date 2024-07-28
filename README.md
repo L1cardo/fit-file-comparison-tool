@@ -66,7 +66,7 @@ npm run build
 
 ## 许可证
 
-[ISC](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## 作者
 

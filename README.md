@@ -66,7 +66,7 @@ npm run build
 
 ## 许可证
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## 作者
 
